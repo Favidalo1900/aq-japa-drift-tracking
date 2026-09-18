@@ -217,7 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# salidas de los experimentos
-resultados/
+# experiment outputs
+results/
 *.npz
 
